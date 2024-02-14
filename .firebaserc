@@ -1,15 +1,5 @@
 {
   "projects": {
-    "default": "gyanith2k22"
-  },
-  "targets": {
-    "gyanith2k22": {
-      "hosting": {
-        "cms": [
-          "gyanith"
-        ]
-      }
-    }
-  },
-  "etags": {}
+    "default": "gyanith2ktwenty4"
+  }
 }
