@@ -1,0 +1,32 @@
+{
+  "name": "gyanith23-content",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5",
+    "@mui/lab": "^5.0.0-alpha.119",
+    "@mui/material": "^5",
+    "@mui/x-date-pickers": "^5.0.0-beta.1",
+    "firebase": "^9",
+    "firecms": "^2.0.0-beta.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6",
+    "react-router-dom": "^6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0"
+  }
+}
